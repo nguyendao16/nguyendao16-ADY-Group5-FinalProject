@@ -1,0 +1,5 @@
+.vscode/
+Strokesdataset.csv
+.env
+.venv
+__pycache__/
